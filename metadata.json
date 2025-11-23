@@ -1,0 +1,7 @@
+{
+  "name": "CulinaVision",
+  "description": "A smart culinary assistant that analyzes your fridge to suggest recipes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
